@@ -1,4 +1,4 @@
-# Sketch - Canvas-item-manager
+# Sketch - Colors in use
 
 <img width="80" height="80" src="https://github.com/icona79/Sketch---Colors-in-use/blob/main/Contents/Resources/icon.png">
 
