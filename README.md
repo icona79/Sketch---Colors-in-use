@@ -11,4 +11,4 @@ Disclaimers:
 
 ## Installation
 
--   [Download the latest release](https://github.com/icona79/Sketch---Colors-in-use/releases/download/Latest/Sketch.-.Canvas.items.manager.sketchplugin.zip), unzip and double click on the .sketchplugin file.
+-   [Download the latest release](https://github.com/icona79/Sketch---Colors-in-use/releases/download/Latest/Sketch.-.Colors.in.use.sketchplugin.zip), unzip and double click on the .sketchplugin file.
